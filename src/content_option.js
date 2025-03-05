@@ -103,33 +103,39 @@ const services = [{
 
 const dataportfolio = [{
         img: remmiImage,
+        title : "Remmi",
         desctiption: "Brisbane's trusted software for hassle-free property management.",
         link: "https://portal-upgrade.remmi.com.au/",
     },
     {
         img: quffahImage,
-        desctiption: "The leading POS solution for seamless transactions in Saudi Arabia",
-        link: "#",
+        title : "Quffah",
+        desctiption: "POS system designed for smart business management",
+        // link: "#",
     },
     {
         img: propertyImage,
+        title :"Property Management Software",
         desctiption: "A powerful property management software for seamless rental and tenant management",
         link: "https://staging-proporb.vercel.app/",
     },
     {
         img:EDM,
+        title : "EDM",
         desctiption: "EDM is an advanced E Distribution System that streamlines POS operations with seamless transactions and efficient inventory management.",
-        link: "#",
+        // link: "#",
     },
     {
         img: flexiWork,
+        title : "FlexiWork",
         desctiption: "FlexiWork is a premier on-demand hiring platform connecting businesses with vetted physical workers",
         link: "https://apps.apple.com/pk/app/flexiwork/id6503910755",  
     },
     {
         img: DiscordGaming,
+        title : "DueL Bet",
         desctiption: "DueL Bet is a Discord-integrated gaming platform where players compete in exciting tournaments, and win exclusive rewards.",
-        link: "#",
+        // link: "#",
     },
 ];
 
