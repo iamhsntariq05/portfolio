@@ -3,6 +3,8 @@ import remmiImage from "./assets/images/portfolio/remi.png";
 import quffahImage from "./assets/images/portfolio/quffah.jpg"
 import propertyImage from "./assets/images/portfolio/PropertyManagement.jpg"
 import flexiWork from "./assets/images/portfolio/Flexiwork.png"
+import EDM from "./assets/images/portfolio/edm2.PNG"
+import DiscordGaming from "./assets/images/portfolio/discordGaming.png"
 
 
 const logotext = "Hasan";
@@ -14,12 +16,12 @@ const meta = {
 const introdata = {
     title: "I’m Hasan Tariq",
     animated: {
-        first: "Full Stack Developer",
+        first: "Mern Stack Developer",
         second: "",
-        third: "DevOps Engineer ",
+        third: "DevOps Engineer",
     },
     talk:{
-        about : "Talks about Crypto"
+        about : "Talks about Blockchain!",
     },
     description: "Passionate Full Stack Developer",
     your_img_url: "src/assets/image/portfolio.png",
@@ -101,63 +103,32 @@ const services = [{
 
 const dataportfolio = [{
         img: remmiImage,
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Brisbane's trusted software for hassle-free property management.",
         link: "https://portal-upgrade.remmi.com.au/",
     },
     {
         img: quffahImage,
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "The leading POS solution for seamless transactions in Saudi Arabia",
         link: "#",
     },
     {
         img: propertyImage,
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "A powerful property management software for seamless rental and tenant management",
+        link: "https://staging-proporb.vercel.app/",
+    },
+    {
+        img:EDM,
+        desctiption: "EDM is an advanced E Distribution System that streamlines POS operations with seamless transactions and efficient inventory management.",
         link: "#",
     },
     {
         img: flexiWork,
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "FlexiWork is a premier on-demand hiring platform connecting businesses with vetted physical workers",
+        link: "https://apps.apple.com/pk/app/flexiwork/id6503910755",  
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: DiscordGaming,
+        desctiption: "DueL Bet is a Discord-integrated gaming platform where players compete in exciting tournaments, and win exclusive rewards.",
         link: "#",
     },
 ];
